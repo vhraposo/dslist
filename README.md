@@ -14,7 +14,7 @@ A aplicação consiste em uma lista de preferência de games, onde os dados são
 ## Modelo conceitual
 ![Modelo Conceitual](./assets/modaloconceitual.PNG)
 
-# Tecnologias utilizadas
+# Tecnologias e ferramentas  utilizadas
 ## Back end
 - Java
 - Spring Boot
@@ -24,11 +24,11 @@ A aplicação consiste em uma lista de preferência de games, onde os dados são
 - Postman
 - Docker
 
-- Banco de dados: 
+##Banco de dados: 
 - H2 (Testes)
 - Postgresql
 
-- Deploy: 
+## Deploy: 
 - Railway
 
 
