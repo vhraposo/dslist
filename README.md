@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-[https://wmazoni-sds1.netlify.app](https://dslist-production-5348.up.railway.app/)
+Deploy Back end na nuvem : [https://dslist-production-5348.up.railway.app/]
 
 DsList é uma aplicação back end construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
